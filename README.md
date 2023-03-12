@@ -1,6 +1,6 @@
 
 ## Clipboard landing page
-This is a landing page project for Huddle, built using HTML and CSS. The page includes responsive design elements, such as flexbox and grid, to ensure it looks great on screens of all sizes.
+This is a landing page project for Clipboard, built using HTML and CSS. The page includes responsive design elements, such as flexbox and grid, to ensure it looks great on screens of all sizes.
 
 # Installation
 To use this project, simply clone or download the repository and open the index.html file in your web browser.
