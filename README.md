@@ -9,7 +9,7 @@
 This is a landing page project for Clipboard, built using HTML and CSS. The page includes responsive design elements, such as flexbox and grid, to ensure it looks great on screens of all sizes.
 
 ## Demo
-You can try out the live demo of the Testimonials grid section here :
+You can try out the live demo of the Testimonials grid section here :  https://mariamgogaladze.github.io/Clipboard-landing-page/
 
 
 # Installation
